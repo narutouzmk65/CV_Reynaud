@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ Présentation
 
-Étudiant en BTS SIO option SISR, passionné par les systèmes et réseaux.pour évoluer dans le secteur informatique, avec une forte capacité d’adaptation et un esprit d’équipe.
+Étudiant en BTS SIO option SISR, passionné par les systèmes et réseaux. Motivé pour évoluer dans le secteur informatique, avec une forte capacité d’adaptation et un esprit d’équipe.
 
 ---
 

@@ -41,7 +41,7 @@
 
 ## 🛠️ Compétences
 
-- 🖥️ Administration Windows / Linux
+- 🖥️ Administration Windows / Linux / hyperviseur
 - 🔒 Réseaux et sécurité
 - 📦 Virtualisation
 - 👨‍💻 Support utilisateur
